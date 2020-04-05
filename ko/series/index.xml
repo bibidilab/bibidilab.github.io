@@ -14,12 +14,31 @@
     <managingEditor>bibidilab@gmail.com (bibidiLab)</managingEditor>
     <webMaster>bibidilab@gmail.com (bibidiLab)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 20 Dec 2019 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="http://bibidilab.github.io/ko/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Themes Guide</title>
+        <link>http://bibidilab.github.io/ko/series/themes-guide/</link>
+        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
+        <author>bibidilab@gmail.com (bibidiLab)</author>
+        
+        <guid>http://bibidilab.github.io/ko/series/themes-guide/</guid>
+        <description></description>
+        
+        <dc:creator>bibidiLab</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
 
     

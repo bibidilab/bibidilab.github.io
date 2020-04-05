@@ -100,21 +100,61 @@
   <url>
     <loc>http://bibidilab.github.io/en/tags/css/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://bibidilab.github.io/ko/tags/css/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bibidilab.github.io/en/tags/css/"
+                />
   </url>
   
   <url>
     <loc>http://bibidilab.github.io/en/tags/html/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://bibidilab.github.io/ko/tags/html/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bibidilab.github.io/en/tags/html/"
+                />
   </url>
   
   <url>
     <loc>http://bibidilab.github.io/en/tags/markdown/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://bibidilab.github.io/ko/tags/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bibidilab.github.io/en/tags/markdown/"
+                />
   </url>
   
   <url>
     <loc>http://bibidilab.github.io/en/posts/markdown-syntax/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://bibidilab.github.io/ko/posts/markdown-syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bibidilab.github.io/en/posts/markdown-syntax/"
+                />
   </url>
   
   <url>
@@ -135,21 +175,61 @@
   <url>
     <loc>http://bibidilab.github.io/en/categories/syntax/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://bibidilab.github.io/ko/categories/syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bibidilab.github.io/en/categories/syntax/"
+                />
   </url>
   
   <url>
     <loc>http://bibidilab.github.io/en/tags/themes/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://bibidilab.github.io/ko/tags/themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bibidilab.github.io/en/tags/themes/"
+                />
   </url>
   
   <url>
     <loc>http://bibidilab.github.io/en/categories/themes/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://bibidilab.github.io/ko/categories/themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bibidilab.github.io/en/categories/themes/"
+                />
   </url>
   
   <url>
     <loc>http://bibidilab.github.io/en/series/themes-guide/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://bibidilab.github.io/ko/series/themes-guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bibidilab.github.io/en/series/themes-guide/"
+                />
   </url>
   
   <url>

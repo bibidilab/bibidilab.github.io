@@ -14,12 +14,85 @@
     <managingEditor>bibidilab@gmail.com (bibidiLab)</managingEditor>
     <webMaster>bibidilab@gmail.com (bibidiLab)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 20 Dec 2019 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="http://bibidilab.github.io/ko/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>css</title>
+        <link>http://bibidilab.github.io/ko/tags/css/</link>
+        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
+        <author>bibidilab@gmail.com (bibidiLab)</author>
+        
+        <guid>http://bibidilab.github.io/ko/tags/css/</guid>
+        <description></description>
+        
+        <dc:creator>bibidiLab</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>html</title>
+        <link>http://bibidilab.github.io/ko/tags/html/</link>
+        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
+        <author>bibidilab@gmail.com (bibidiLab)</author>
+        
+        <guid>http://bibidilab.github.io/ko/tags/html/</guid>
+        <description></description>
+        
+        <dc:creator>bibidiLab</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>markdown</title>
+        <link>http://bibidilab.github.io/ko/tags/markdown/</link>
+        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
+        <author>bibidilab@gmail.com (bibidiLab)</author>
+        
+        <guid>http://bibidilab.github.io/ko/tags/markdown/</guid>
+        <description></description>
+        
+        <dc:creator>bibidiLab</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>themes</title>
+        <link>http://bibidilab.github.io/ko/tags/themes/</link>
+        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
+        <author>bibidilab@gmail.com (bibidiLab)</author>
+        
+        <guid>http://bibidilab.github.io/ko/tags/themes/</guid>
+        <description></description>
+        
+        <dc:creator>bibidiLab</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>index</title>
